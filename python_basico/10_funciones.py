@@ -8,8 +8,6 @@ def my_function():
 
 my_function()
 
-my_function()
-
 def suma_de_numero(x:int,y:int):
     return(x+y)
 
@@ -48,16 +46,5 @@ lista_x = [4,5,'dela']
 
 for i in lista_x:
    print(i)
-
-
-variable_2 = input('ingresa tu fecha de nacimiento  ')
-variable_3 = input('ingresa el año actual  ')
-
-def convertir(variable_2:int,variable_3:int):
-    print(variable_2+variable_3)
-
-print(type(variable_2))
-
-
 
  
