@@ -12,7 +12,6 @@ my_other_dic = {"nombre":"cesar","apellido":"de la cruz",
 
 print(my_other_dic)
 print(type(my_other_dic))
-
 print(len(my_other_dic)) #4
 print(my_other_dic["nombre"]) # recuerda que se llama los valores de las llaves con corchete
 

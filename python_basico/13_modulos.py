@@ -5,10 +5,12 @@ import module
 module.sumar(1,2)
 module.resta(5,8)
 
-
+from module import sumar,resta
+sumar(87,100)
+resta(87,100)
 #importa una funcion especificada
-from modulo_2 import multip, impresion
-multip(8,10)
+from modulo_2 import multiplicacion,impresion
+multiplicacion(8,10)
 impresion(8,10)
 
 # tenemos modulos de python

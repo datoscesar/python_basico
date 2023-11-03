@@ -1,4 +1,2 @@
 
-import datetime
-
-datetime._Date
+print('hola')

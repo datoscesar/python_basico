@@ -1,4 +1,4 @@
-def multip(x,y):
+def multiplicacion(x,y):
     print(x*y)
 
 def impresion(x,y):

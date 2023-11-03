@@ -22,3 +22,6 @@ print(variable.islower())#Las funciones MAYUSCULA isupper() e MINIUSCULA islower
 print(type(edad))
 
 print(variable.isupper())
+
+variable_2= 'hola,mi,nombre es_cesar de_la cruz '
+print(variable_2.split())

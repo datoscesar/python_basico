@@ -2,7 +2,7 @@ my_set = set()
 my_other_set = {}
 print(type(my_other_set))
 print(type(my_set))
-my_other_set={"cesar","de la cruz",35,35}
+my_other_set={"wanda",35,35,35,35}
 print(my_other_set)
 print(len(my_other_set))
 #print(my_other_set[0])# esto es para llamar un elemento solo funciona en LISTA y TUPLA

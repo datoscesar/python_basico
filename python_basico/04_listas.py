@@ -1,24 +1,17 @@
 
-# el len es para contar los elementos de una lista
-# count es para contar un elemento especial
-my_first_list=list()
-my_first_list = ['cesar',35,1.65,23221,23202,78]
-print(my_first_list)
-print(len(my_first_list))
-print(my_first_list.count(35))
-print(type(my_first_list))
-
 my_new_list=list()
-my_new_list =[24,24,24]
+my_new_list =[24,24,2,26]
 print(my_new_list.count(24))
 # llamar elementos
 
-print(my_first_list[0])
-print(my_first_list[1])
-print(my_first_list[2])
-print(my_first_list[-2])
+print(my_new_list[0])
+print(my_new_list[1])
+print(my_new_list[2])
+print(my_new_list[-2])
 
-name,edad,altura,dinero,decimales,other = my_first_list
+datos_personales = list()
+datos_personales = ['cesar',35,1.65,'sol',0.23, 'alegre']
+name,edad,altura,dinero,decimales,other = datos_personales
 
 print(altura) #1.65
 
