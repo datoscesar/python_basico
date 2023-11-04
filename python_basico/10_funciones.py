@@ -36,10 +36,6 @@ def print_name2(name,lastname,alias="coyote"):
 
 print(print_name2('janneth','quintana'))
 
-def texts(i):
-    return(i)
-
-print(texts('ALEJNADRO'))
 
 lista_x = list()
 lista_x = [4,5,'dela']
